@@ -1,0 +1,45 @@
+Bacteria
+++Bacillota
+| \-Bacillales
+|   +-Exiguobacterium
+|   | \-Exiguobacterium sp. YT2
+|   ++Paenibacillaceae
+|   | \-Brevibacillus borstelensis
+|   \-Bacillaceae
+|     +-Anoxybacillus
+|     | \-Anoxybacillus rupiensis
+|     \-Bacillus
+|       +-Bacillus cereus
+|       | \-Bacillus cereus ATCC 14579
+|       \-Bacillus amyloliquefaciens
++-Actinomycetota
+| \-Actinomycetes
+|   ++Streptosporangiales
+|   | \-Thermobifida alba
+|   \+Micrococcales
+|     \-Micrococcus luteus
+\-Pseudomonadota
+  ++Betaproteobacteria
+  | \-Piscinibacter sakaiensis
+  ++Alphaproteobacteria
+  | \-Ochrobactrum
+  \-Gammaproteobacteria
+    ++Enterobacterales
+    | \-Enterobacter sp. D1
+    ++Moraxellales
+    | \-Acinetobacter pittii
+    \-Pseudomonadales
+      \-Pseudomonadaceae
+        +-Halopseudomonas
+        | \-Halopseudomonas aestusnigri
+        \-Pseudomonas
+          +-Pseudomonas sp. E4
+          +-Pseudomonas protegens
+          | \-Pseudomonas protegens Pf-5
+          +-Pseudomonas aeruginosa
+          | \-Pseudomonas aeruginosa PAO1
+          +-Pseudomonas citronellolis
+          \-Pseudomonas putida
+            +-Pseudomonas putida NBRC 14164
+            \-Pseudomonas putida LS46
+-----------------------------------
